@@ -10,7 +10,7 @@ ACCOUNTS = [
 ORG_NAME        = "MARSM"
 ORG_DBA         = "MARSM"
 ORG_URL         = "https://sfqbfoundation.github.io"
-ORG_LOGO        = "https://sfqbfoundation.github.io/MARSM.png"
+ORG_LOGO        = "https://sfqbfoundation.github.io/.well-known/marsm.png"
 ORG_DESCRIPTION = "MARSM is a visionary project developed on the Stellar network — focused on extracting and tokenizing
 precious cosmic resources such as gold, silver, platinum, palladium, iridium, rhodium, and diamond.
 Each mission brings real cosmic value back to Earth through blockchain transparency."
@@ -20,7 +20,7 @@ code = "MARSM"
 issuer = "GBL27HDAR7QOPYDOVGLYF3JG5WZ2IKX2633GRFGW43JTVBAPZM6KO5IG"
 name   = "MARSM"
 desc   = "Main token powering the MARSM interplanetary resource economy."
-image  = "https://sfqbfoundation.github.io/MARSM.png"
+image  = "https://sfqbfoundation.github.io/.well-known/marsm.png"
 status = "live"
 anchor_asset_type = "crypto"
 display_decimals = 7
